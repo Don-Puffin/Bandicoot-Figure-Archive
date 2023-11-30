@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Crash-a-Like';
-  src: url('Crash-a-Like.woff2') format('woff2'),
-      url('Crash-a-Like.woff') format('woff');
+  src: url('crash-a-like-webfont.woff2') format('woff2'),
+       url('crash-a-like-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
-  font-display: swap;
+
 }
 
 nav {
