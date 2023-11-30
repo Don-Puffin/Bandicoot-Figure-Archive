@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Crash-a-Like';
+  src: url('Crash-a-Like.woff2') format('woff2'),
+      url('Crash-a-Like.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+nav {
+  font-family:'Crash-a-Like';
+  font-size:x-large;
+  line-height:70%
+}
